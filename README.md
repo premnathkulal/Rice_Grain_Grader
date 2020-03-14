@@ -1,1 +1,1 @@
-# Rice_Grain_Grader
+# Rice Grain Grader
